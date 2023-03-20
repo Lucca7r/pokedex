@@ -1,3 +1,1 @@
-## Start Pokedex
-
-project in progress...
+## Start https://lucca7r.github.io/pokedex/
