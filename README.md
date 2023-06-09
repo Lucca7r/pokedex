@@ -39,6 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   O projeto foi desenvolvido para por em pratica meus estudos sobre requisições HTTP, API.<br>
   Definitivamente um dos projetos que mais gostei de fazer :)
   </p>
+  
 - [Acesse o projeto finalizado, online](https://lucca7r.github.io/pokedex/)
 
 
