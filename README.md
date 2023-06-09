@@ -1,6 +1,6 @@
 <h1 align="center"> Pokexe </h1>
 
-<p align="center">Uma pokedex feita aparti da API publica de pokemon a PokéAPI<br/>
+<p align="center">Uma pokedex feita com um API publica de pokemon a PokéAPI<br/>
 </p>
 
 <p align="center">
